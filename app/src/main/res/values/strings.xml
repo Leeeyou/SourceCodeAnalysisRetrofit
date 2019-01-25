@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Retrofit源码分析</string>
+    <string name="action_settings">Settings</string>
+</resources>
