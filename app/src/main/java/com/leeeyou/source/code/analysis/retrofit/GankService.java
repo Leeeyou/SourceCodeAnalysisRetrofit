@@ -5,5 +5,5 @@ import retrofit2.http.GET;
 
 public interface GankService {
     @GET("xiandu/categories")
-    Call<ResponseCategory> categories();
+    Call<ResponseCategory> fetchCategories();
 }
